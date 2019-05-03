@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: with-packages
+# key: with-packages
+# --
+-- -*- eval: (med/hp '(pretty-show)) -*-
